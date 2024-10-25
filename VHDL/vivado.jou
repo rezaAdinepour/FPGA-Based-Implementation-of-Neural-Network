@@ -1,0 +1,270 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Feb  9 23:53:29 2024
+# Process ID: 33148
+# Current directory: C:/Users/HP/Downloads/rcs_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent28184 C:\Users\HP\Downloads\rcs_project\rcs_project.xpr
+# Log file: C:/Users/HP/Downloads/rcs_project/vivado.log
+# Journal file: C:/Users/HP/Downloads/rcs_project\vivado.jou
+# Running On: DESKTOP-C5H8N6H, OS: Windows, CPU Frequency: 2688 MHz, CPU Physical cores: 14, Host memory: 16876 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/HP/Downloads/rcs_project/rcs_project.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms
+close_sim
+launch_simulation
+open_wave_config C:/Users/HP/Downloads/rcs_project/test_bench_behav.wcfg
+source test_bench.tcl
+run 100 ms

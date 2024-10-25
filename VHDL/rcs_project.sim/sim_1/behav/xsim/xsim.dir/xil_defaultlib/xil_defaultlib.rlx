@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sim_1/new/test_bench.vhd,1707597305,vhdl,,,,test_bench,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/imports/new/Generic_size_of_matrices_pkg.vhd,1707433869,vhdl,C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/neuron_with_sigmoid_activation.vhd;C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/sigmoid.vhd,,,generic_size_of_matrices_pkg,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/imports/new/regs_package.vhd,1707457957,vhdl,C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sim_1/new/test_bench.vhd,,,regs_package,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/hidden_layer_with_10neuron.vhd,1707458206,vhdl,,,,hidden_layer_with_10neuron,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/neuron_with_relu_activation.vhd,1707458268,vhdl,,,,neuron_with_relu_activation,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/neuron_with_sigmoid_activation.vhd,1707457972,vhdl,,,,neuron_with_sigmoid_activation,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/output_layer_with_10neuron.vhd,1707458397,vhdl,,,,output_layer_with_10neuron,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/rcs_project.vhd,1707458937,vhdl,,,,rcs_project,,,,,,,,
+C:/Users/HP/Downloads/rcs_project/rcs_project.srcs/sources_1/new/sigmoid.vhd,1707433796,vhdl,,,,sigmoid,,,,,,,,

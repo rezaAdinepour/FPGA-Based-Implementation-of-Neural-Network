@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="generic_size_of_matrices_pkg" />
+            <top_module name="regs_package" />
+            <top_module name="test_bench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="12510000000fs"></ZoomStartTime>
+      <ZoomEndTime time="33510000001fs"></ZoomEndTime>
+      <Cursor1Time time="16010000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="45" />
+   <wvobject fp_name="/test_bench/uut/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/START_ANN" type="logic">
+      <obj_property name="ElementShortName">START_ANN</obj_property>
+      <obj_property name="ObjectShortName">START_ANN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/inputs" type="array">
+      <obj_property name="ElementShortName">inputs[0:783][7:0]</obj_property>
+      <obj_property name="ObjectShortName">inputs[0:783][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron1_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron1_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron1_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron2_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron2_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron2_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron3_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron3_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron3_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron4_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron4_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron4_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron5_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron5_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron5_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron6_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron6_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron6_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron7_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron7_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron7_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron8_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron8_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron8_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron9_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron9_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron9_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/outlayer_neuron10_w" type="array">
+      <obj_property name="ElementShortName">outlayer_neuron10_w[0:9][15:0]</obj_property>
+      <obj_property name="ObjectShortName">outlayer_neuron10_w[0:9][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron1_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron1_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron1_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron2_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron2_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron2_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron3_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron3_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron3_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron4_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron4_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron4_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron5_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron5_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron5_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron6_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron6_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron6_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron7_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron7_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron7_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron8_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron8_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron8_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron9_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron9_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron9_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/hidden_neuron10_w" type="array">
+      <obj_property name="ElementShortName">hidden_neuron10_w[0:783][15:0]</obj_property>
+      <obj_property name="ObjectShortName">hidden_neuron10_w[0:783][15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output0" type="array">
+      <obj_property name="ElementShortName">output0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output0[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output1" type="array">
+      <obj_property name="ElementShortName">output1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output1[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output2" type="array">
+      <obj_property name="ElementShortName">output2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output2[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output3" type="array">
+      <obj_property name="ElementShortName">output3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output3[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output4" type="array">
+      <obj_property name="ElementShortName">output4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output4[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output5" type="array">
+      <obj_property name="ElementShortName">output5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output5[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output6" type="array">
+      <obj_property name="ElementShortName">output6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output6[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output7" type="array">
+      <obj_property name="ElementShortName">output7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output7[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output8" type="array">
+      <obj_property name="ElementShortName">output8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output8[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/output9" type="array">
+      <obj_property name="ElementShortName">output9[31:0]</obj_property>
+      <obj_property name="ObjectShortName">output9[31:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/input_outlayer" type="array">
+      <obj_property name="ElementShortName">input_outlayer[0:9][23:0]</obj_property>
+      <obj_property name="ObjectShortName">input_outlayer[0:9][23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n1" type="array">
+      <obj_property name="ElementShortName">out_hidden_n1[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n1[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n2" type="array">
+      <obj_property name="ElementShortName">out_hidden_n2[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n2[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n3" type="array">
+      <obj_property name="ElementShortName">out_hidden_n3[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n3[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n4" type="array">
+      <obj_property name="ElementShortName">out_hidden_n4[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n4[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n5" type="array">
+      <obj_property name="ElementShortName">out_hidden_n5[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n5[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n6" type="array">
+      <obj_property name="ElementShortName">out_hidden_n6[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n6[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n7" type="array">
+      <obj_property name="ElementShortName">out_hidden_n7[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n7[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n8" type="array">
+      <obj_property name="ElementShortName">out_hidden_n8[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n8[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n9" type="array">
+      <obj_property name="ElementShortName">out_hidden_n9[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n9[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/out_hidden_n10" type="array">
+      <obj_property name="ElementShortName">out_hidden_n10[23:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hidden_n10[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_bench/uut/valid_hidden_layer" type="logic">
+      <obj_property name="ElementShortName">valid_hidden_layer</obj_property>
+      <obj_property name="ObjectShortName">valid_hidden_layer</obj_property>
+   </wvobject>
+</wave_config>
